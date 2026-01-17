@@ -1,0 +1,13 @@
+{
+  "project_title": "Time Off Request Board",
+  "goal": "Plan time off coverage and detect conflicts.",
+  "entity_name": "request",
+  "amount_label": "days",
+  "score_label": "coverage_score",
+  "categories": [
+    "vacation",
+    "sick",
+    "parental",
+    "other"
+  ]
+}
